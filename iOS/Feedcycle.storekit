@@ -1,0 +1,42 @@
+{
+  "identifier": "feedcycle",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [
+    {
+      "id": "21500000",
+      "localizations": [],
+      "name": "Feedcycle Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "2.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "feedcycle_pro_monthly",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Unlocks auto-reminders by feeding frequency and unlimited plants.",
+              "displayName": "Feedcycle Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "feedcycle_pro_monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Feedcycle Pro Monthly",
+          "subscriptionGroupID": "21500000",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
